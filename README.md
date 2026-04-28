@@ -1,5 +1,8 @@
-# <img src="images/logo.png" width="40" height="40"> Projet : Déploiement d'Infrastructure - Mission Rue25
-# Projet : Déploiement d'Infrastructure - Mission Rue25
+![Windows Server](https://img.shields.io/badge/Windows_Server-2019-0078D6?style=for-the-badge&logo=microsoft)
+![DHCP](https://img.shields.io/badge/Service-DHCP-orange?style=for-the-badge)
+![Lubuntu](https://img.shields.io/badge/Client-Lubuntu-blue?style=for-the-badge&logo=ubuntu)
+# <img src="images/logo.png" width="40" height="40"> 
+Projet : Déploiement d'Infrastructure - Mission Rue25
 
 ## Description
 Ce projet consiste en la mise en place d'une infrastructure réseau virtualisée pour la société Rue25. L'objectif principal était de déployer un serveur DHCP centralisé sur **Windows Server 2019** afin d'automatiser l'attribution d'adresses IP à des postes clients (**Lubuntu**).
